@@ -1,20 +1,38 @@
 # Python Project
 ___
-## Instacart Basket Initiative 🥕
-Rockbuster Stealth LLC, a global movie rental company once renowned for its physical store presence, now confronts formidable competition from streaming giants like Netflix and Amazon Prime. To counter this challenge, the management team at Rockbuster Stealth is strategizing to leverage its extensive movie licenses by introducing an online video rental service to retain competitiveness in the market.
+## Instacart Basket Customer Spending Habits 🥕
+Instacart, an app-based online grocery store, has achieved commendable sales figures. However, to enhance their understanding of sales patterns, the company seeks to dive deeper into their data. They aim to conduct an initial exploratory analysis to uncover insights and propose novel strategies for improved segmentation based on the provided criteria.
 
 ### Content and Objective
-This initiative entails a customer distribution analysis, focusing on discerning customer demographics, revenue distribution patterns, and average expenditure. 
-The insights aim to facilitate informed resource allocation strategies, optimizing the launch of the online video rental service.
+This portfolio includes a Python script, visualization for the findings, and a final report to stakeholders. 
+
+All analyses aim to answer the business questions from the management team.
+
+
+*Key Questions:*
+* The busiest days of the week and hours of the day.
+* The time of the day when people spend the most money.
+* Price range groupings to help direct marketing efforts.
+* Popular departments and products.
+* Customer spending habits.
 
 ### File Description
-* #### Data Dictionary
-It contains the metainformation of tables and their ERD in the dataset.
-* #### Queries and Results
-It contains all queries and the insights for the analysis.
-* #### Customer Distribution Presentation
-It is the presentation of the final findings to stakeholders.
-* #### Data Limitations
-The customer dispersion visualization in the presentation only covers the customer count in cities within India and China. This choice is due to an abundance of null data regarding cities in the US, making it impossible to visualize these details in Tableau.
+1. Script
+   
+It contains a jupyter notebook for the Python code.
 
-* [Visualization in Tableau](https://public.tableau.com/views/RockBusterCustomerDistribution/CustomerOverview?:language=en-US&:sid=&:display_count=
+2. Analysis
+
+It contains all visualizations.
+
+3. Sent to Client
+
+It contains the final report to stakeholders.
+
+### Data Citation:																									
+The data in this analysis comes from  Kaggle “The Instacart Online Grocery Shopping Dataset 2017”													
+[Data Link](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)	
+
+NOTE: The customer data, as well as the "prices" column in the products data set, are fabricated for skill practicing.													
+													
+
