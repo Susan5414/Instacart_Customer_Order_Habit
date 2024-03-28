@@ -19,15 +19,15 @@ All analyses aim to answer the business questions from the management team.
 ### File Description
 1. Script
    
-It contains a jupyter notebook for the Python code.
+It contains a jupyter notebook for the Python code for all data manipulation.
 
 2. Analysis
 
-It contains all visualizations.
+It contains all visualizations for analysis.
 
 3. Sent to Client
 
-It contains the final report to stakeholders.
+It contains the full report including data population flow, data cleaning log, and recommendations to stakeholders.
 
 ### Data Citation:																									
 The data in this analysis comes from  Kaggle “The Instacart Online Grocery Shopping Dataset 2017”													
