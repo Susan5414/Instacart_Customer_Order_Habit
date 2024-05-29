@@ -1,5 +1,5 @@
-# Instacart Basket Customer Order Habits 🥕
-___
+# 🥕Instacart Basket Customer Order Habits 
+
 ## Project Initiative 
 Instacart, an app-based online grocery store, has achieved commendable sales figures. However, to enhance their understanding of sales patterns, the company seeks to dive deeper into their data. They aim to conduct an initial exploratory analysis to uncover insights and propose novel strategies for improved segmentation based on the provided criteria.
 
